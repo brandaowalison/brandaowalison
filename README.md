@@ -40,7 +40,7 @@ Este repositório pessoal é dedicado aos meus estudos na área de computação.
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=brandaowalison&show_icons=true&theme=dark" width="50%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandaowalison&hide=scss,jupyter%20notebook&layout=compact&theme=dark" width="36%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandaowalison&hide=scss,jupyter%20notebook&layout=compact&theme=dark" width="38%" />
 </p>
 
 -----
