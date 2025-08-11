@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-End`**
 
-Me chamo Walison Soares Brandão, tenho 21 anos e sou entusiasta de tecnologia. Moro na linda cidade de Olinda-PE e atualmente curso Análise e Desenvolvimento de Sistemas na [Faculdade Senac Pernambuco](https://faculdadesenacpe.edu.br/). Sou focado no desenvolvimento **Back-End** e tenho grande interesse em me tornar um desenvolvedor **FullStack**. Estou sempre em busca de novos conhecimentos e desafios para evoluir cada vez mais na minha área de atuação.
+Me chamo Walison Brandão, tenho 21 anos e sou entusiasta de tecnologia. Moro na linda cidade de Olinda-PE e atualmente curso Análise e Desenvolvimento de Sistemas na [Faculdade Senac Pernambuco](https://faculdadesenacpe.edu.br/). Sou focado no desenvolvimento **Back-End** e tenho grande interesse em me tornar um desenvolvedor **FullStack**. Estou sempre em busca de novos conhecimentos e desafios para evoluir cada vez mais na minha área de atuação.
 
 Este repositório pessoal é dedicado aos meus estudos na área de computação. Convido-o(a) a contribuir ou a me acompanhar nas redes sociais.
 
