@@ -1,4 +1,4 @@
-## 👋🏽 Olá, Bem-vindo ao meu perfil no Guthub.
+## 👋🏽 Olá, Bem-vindo ao meu perfil no Github.
 
 **`Desenvolvedor Back-End`**
 
